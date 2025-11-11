@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Bernabé Hernández
+Desarrollador de software apasionado por crear soluciones eficientes y funcionales.
 
-<!--
-**BernabeHernandez/BernabeHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tecnologías:
+- React, Node.js, Express
+- MySQL, MongoDB
+- GitHub Actions, Docker
 
-Here are some ideas to get you started:
+🌱 Actualmente aprendiendo:
+- Inteligencia Artificial
+- DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Cómo contactarme:
+- 📧 bernabe@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/bernabehernandez)
