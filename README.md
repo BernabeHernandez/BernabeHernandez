@@ -13,7 +13,7 @@
 
 ```javascript
 const bernabe = {
-  🌎 ubicacion: "México",
+  🌎 ubicacion: "Hidalgo",
   💼 rol: "Desarrollador Web",
   🎯 enfoque: "Crear soluciones escalables y eficientes",
   🔭 trabajando_en: "Proyectos innovadores",
