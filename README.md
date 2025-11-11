@@ -13,23 +13,22 @@
 
 ```javascript
 const bernabe = {
-  🌎 ubicacion: "Hidalgo",
-  💼 rol: "Desarrollador Web",
-  🎯 enfoque: "Crear soluciones escalables y eficientes",
-  🔭 trabajando_en: "Proyectos innovadores",
-  🌱 aprendiendo: ["Machine Learning", "Web3"],
-  💡 pasion: "Resolver problemas complejos con código elegante",
+  ubicacion: "Hidalgo",
+  rol: "Desarrollador Web",
+  enfoque: "Crear soluciones escalables y eficientes",
+  trabajando_en: "Proyectos innovadores",
+  aprendiendo: ["Machine Learning", "Web3"],
+  pasion: "Resolver problemas complejos con código elegante",
   
   lenguajes: {
     avanzado: ["JavaScript", "TypeScript"],
-    intermedio: ["SQL", "HTML5", "CSS3"],
     explorando: ["Rust", "Go"]
   },
   
-  hobbies: ["🎮 Gaming", "📚 Lectura Tech", "🎵 Música", "🌐 Open Source"],
+  hobbies: ["Gaming", "Lectura Tech", "Música"],
   
   contacto: {
-    email: "bernabe@example.com",
+    email: "berna25d@gmail.com",
     disponible: true
   }
 };
@@ -187,11 +186,11 @@ const bernabe = {
 
 <br/>
 
-## 📫 Conecta Conmigo
+## Contacto
 
 <div align="center">
 
-<a href="mailto:bernabe@example.com">
+<a href="mailto:berna25d@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/bernabehernandez">
